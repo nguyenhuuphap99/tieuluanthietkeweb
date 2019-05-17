@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../css/Trangchu.css">
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Bất Động Sản</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<header>
+    <img src="../Images/llogo.PNG"><img src="../Images/lllogo.PNG" width="631" >
+    </header>
+	<nav>
+
+    	<ul>
+        	<li><a href="../Index.html">Trang chủ</a></li>
+           <li><a href="../TinTuc.html">Tin tức</a></li>
+           <li><a href="../BinhDuong.html">Nhà Bán</a></li>
+           <li><a href="../BinhPhuoc.html">Đất Bán</a></li>
+
+       	</ul>
+
+        <form>
+        		<input id="ndtim" type="text" placeholder="Search........">
+                <input id="nut" type="submit" value="Tìm">
+        </form>
+    </nav>
+    <article>
+    	<aside id="left">
+        <div>
+        
+            <h1><b> Nhà Đất Khu Vực </b></h1>
+            <h1><b> Nhà Bán </b></h1>
+<ul type="square">
+	<li> <a href="../BinhDuong.html">Bình Dương</a> </li>
+    <li> <a href="#">TP HCM </a></li>
+    <li> <a href="#">Bình Phước</a> </li>
+    </ul>
+<h1><b> Đất Bán</b></h1>
+<ul type="square">
+	<li> <a href="#">Bình Dương</a></li>
+    <li> <a href="#">TP HCM</a></li>
+    <li> <a href="../BinhPhuoc.html">Bình Phước</a></li>
+    </ul>
+<h1><b> Khu Cho Thuê</b></h1>
+<ul type="square">
+	<li> <a href="#">Bình Dương</a></li>
+    <li> <a href="#">TP HCM</a></li>
+    <li> <a href="#">Bình Phước</a></li>
+    </ul>
+	</div>
+    	</aside>
+		<section><!-- TemplateBeginEditable name="NoiDung" -->
+        NoiDung
+		<!-- TemplateEndEditable -->
+        
+        </section>
+</article>
+		        <footer>
+        <p>Design Nguyễn Hữu Pháp 1724801030090</p>
+        </footer>
+</body>
+</html>
